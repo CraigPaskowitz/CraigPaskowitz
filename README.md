@@ -1,4 +1,18 @@
-## Hi there 👋
+# Craig Paskowitz
+
+Lifelong learner driven by curiosity.
+
+I like to get hands-on with emerging technology—building simple prototypes to understand what’s real, what’s useful, and what’s just hype.
+
+This GitHub is just a space to experiment, learn, and have some fun along the way. 
+
+## Projects
+- **Orbital** – real-time space tracking interface  
+  → https://craigpaskowitz.github.io/Orbital/
+
+---
+
+At the end of the day, just another human in the loop.
 
 <!--
 **CraigPaskowitz/CraigPaskowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
