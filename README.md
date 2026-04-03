@@ -10,8 +10,6 @@ This is a space to experiment, learn, and have some fun along the way.
 
 *At the end of the day, just another human in the loop.*
 
----
-
 <!--
 **CraigPaskowitz/CraigPaskowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
