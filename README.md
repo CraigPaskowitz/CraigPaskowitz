@@ -6,10 +6,6 @@ I like to get hands-on with emerging technology—building simple prototypes to 
 
 This is a space to experiment, learn, and have some fun along the way. 
 
-## Projects
-- **Orbital** – real-time space tracking interface  
-  → https://craigpaskowitz.github.io/Orbital/
-
 ---
 
 At the end of the day, just another human in the loop.
