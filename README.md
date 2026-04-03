@@ -4,7 +4,7 @@ Lifelong learner driven by curiosity.
 
 I like to get hands-on with emerging technology—building simple prototypes to understand what’s real, what’s useful, and what’s just hype.
 
-This GitHub is just a space to experiment, learn, and have some fun along the way. 
+This is a space to experiment, learn, and have some fun along the way. 
 
 ## Projects
 - **Orbital** – real-time space tracking interface  
