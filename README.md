@@ -12,7 +12,7 @@ This is a space to experiment, learn, and have some fun along the way.
 
 ---
 
-***"The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn."*** > — Alvin Toffler*
+***"The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn."*** > — Alvin Toffler
 
 <!--
 **CraigPaskowitz/CraigPaskowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
