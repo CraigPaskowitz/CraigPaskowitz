@@ -8,6 +8,4 @@ This is where I experiment, learn, and share what I discover.
 
 ---
 
-*At the end of the day, just another human in the loop.*
-
 Explore [Pasko Labs](https://paskolabs.com).
